@@ -1,2 +1,2 @@
 # learn-remix
-udemy 기초 강의
+udemy 기초 강의!
